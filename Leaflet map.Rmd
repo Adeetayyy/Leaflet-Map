@@ -1,6 +1,6 @@
 ---
 title: "Leaflet Map"
-author: "Aprameya Nayak"
+author: "D Aditi"
 date: "4th November 2024"
 output: html_document
 ---
